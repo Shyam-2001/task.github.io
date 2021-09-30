@@ -1,0 +1,96 @@
+i {
+  margin-top: 13px;
+  padding-right: 10px;
+}
+li {
+  padding-right: 30px;
+}
+.p1 {
+  text-align: center;
+  margin-top: 10%;
+}
+#lol {
+  height: 300px;
+  background: rgba(0, 0, 0, 0.5) url("back.jpg");
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+h4 {
+  color: white;
+  padding-left: 40px;
+}
+p {
+  color: lightyellow;
+  margin-left: 15%;
+  font-weight: lighter;
+}
+#shift {
+  color: white;
+  font-weight: bold;
+  margin-left: 3%;
+}
+h1 {
+  color: white;
+  font-weight: bold;
+  margin-left: 15%;
+}
+#but {
+  margin-left: 30%;
+}
+#last {
+  font-weight: lighter;
+  margin-top: 10%;
+}
+.line {
+  color: red;
+  width: 50%;
+  height: 100px;
+}
+#lol1 {
+  background: rgba(0, 0, 0, 0.5) url("back2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+.card-title {
+  color: white;
+}
+
+.card {
+  padding: 2% 7%;
+  color: #646771;
+  background-color: #16151a;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul > li {
+  padding: 4px;
+}
+
+ul > li:hover {
+  color: #957bda;
+  cursor: pointer;
+}
+
+hr {
+  border-width: 3px;
+}
+
+.policy > div {
+  padding: 4px;
+}
+
+.heading {
+  font-family: "Titillium Web", sans-serif;
+  color: lightcoral;
+}
+
+.divider {
+  border-top: 2px solid rgba(189, 196, 203, 0.5);
+}
